@@ -12,7 +12,7 @@ The following steps were used:
 
 ~Compare two machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier.
 
-~We will evaluate the performance of these models and make a recommendation on whether they should be used to predict credit risk.
+We will evaluate the performance of these models and make a recommendation on whether they should be used to predict credit risk.
 
 ## Results 
 
