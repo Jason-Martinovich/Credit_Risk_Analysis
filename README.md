@@ -54,7 +54,7 @@ The balanced accuracy score improved to about 79%.
 The high_risk precision is still low at 4% only with 67% sensitivity which makes a F1 of only 7%.
 Due to a lower number of false positives, the low_risk sensitivity is now 91% with 100% presicion.
 
-![balancedrandom](balancedrancom.png)
+![balancedrandom](balancedrandom.png) 
 
 ### EasyEnsembleClassifier Model
 
