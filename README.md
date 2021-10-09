@@ -14,6 +14,9 @@ The following steps were used:
 
 ### RandomOverSampler Model
 
+![vine_review](vine_review.png)
+
+
 ### SMOTE Model
 
 ### ClusterCentroids model
