@@ -19,7 +19,11 @@ The following steps were used:
 
 ### SMOTE Model
 
+![smote](smote.png)
+
 ### ClusterCentroids model
+
+
 
 ### SMOTEENN Model
 
