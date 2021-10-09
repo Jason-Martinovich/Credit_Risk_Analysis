@@ -14,7 +14,7 @@ The following steps were used:
 
 ### RandomOverSampler Model
 
-![vine_review](vine_review.png)
+![randomoversample](randomoversample.png)
 
 
 ### SMOTE Model
