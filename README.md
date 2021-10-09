@@ -62,7 +62,7 @@ Now, the balanced accuracy score is high to about 92.5%.
 The high_risk precision is still low at 7% only with 91% sensitivity which makes a F1 of only 14%.
 Due to a lower number of false positives, the low_risk sensitivity is now 94% with 100% presicion.
 
-![Easy](easy.png)
+![Easy](Easy.png)
 
 ## Summary
 
