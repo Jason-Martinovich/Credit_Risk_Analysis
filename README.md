@@ -23,9 +23,12 @@ The following steps were used:
 
 ### ClusterCentroids model
 
+![cluster](cluster.png)
 
 
 ### SMOTEENN Model
+
+![smoteenn](smoteenn.png)
 
 ### BalancedRandomForestClassifier Model
 
